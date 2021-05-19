@@ -1,25 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Started weekend inventory taking",
+      "message": "Started weekend inventory, my assistant has the shop floor",
       "attention": false,
-      "date": "05-18-2021",
-      "tech": "Guy Gardner"
+      "tech": "Guy Gardner",
+      "date": "2021-05-19T14:32:34.468Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Finished inventory, found one discrepancy",
+      "message": "Found 1 discrepancy during inventory taking. Forwarded to the headquarters",
       "attention": true,
-      "date": "05-19-2021",
-      "tech": "Guy Gardner"
+      "tech": "Guy Gardner",
+      "date": "2021-05-19T14:33:18.534Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Network Failure on ground floor",
+      "message": "Found 18 damaged cartons in new stock. Ready for collection",
       "attention": true,
-      "date": "05-21-2021",
-      "tech": "Tom Ambali"
+      "tech": "Fiyi Oladimeji",
+      "date": "2021-05-19T14:34:17.740Z",
+      "id": 3
+    },
+    {
+      "message": "Delivered to 20 customers",
+      "attention": false,
+      "tech": "Tom Ambali",
+      "date": "2021-05-19T14:34:44.308Z",
+      "id": 4
     }
   ],
   "techs": [
