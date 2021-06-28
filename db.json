@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Found 1 discrepancy during inventory taking. Forwarded to the headquarters",
-      "attention": true,
-      "tech": "Guy Gardner",
-      "date": "2021-05-19T14:33:18.534Z",
-      "id": 2
+      "id": 2,
+      "message": "Found missing inventory. Updated Headquarters",
+      "attention": false,
+      "tech": "Jeff Cruz",
+      "date": "2021-06-28T07:29:04.383Z"
     },
     {
       "message": "Found 18 damaged cartons in new stock. Ready for collection",
@@ -27,6 +27,13 @@
       "tech": "Tom Ambali",
       "date": "2021-05-19T14:34:44.308Z",
       "id": 4
+    },
+    {
+      "id": 5,
+      "message": "Internet downtime on #48",
+      "attention": true,
+      "tech": "Jeff Cruz",
+      "date": "2021-06-28T07:19:27.295Z"
     }
   ],
   "techs": [
